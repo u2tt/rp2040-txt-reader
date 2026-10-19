@@ -3,7 +3,7 @@
 > 拿 **YD-RP2040**（16MB）开发板接一块 **1.8 寸 ST7735 TFT** 屏做的硬件实践，跑 **CircuitPython 9.x**。第一次碰这类开发板，从选型、接线到焊接装配都是自己摸的。
 
 [![CircuitPython](https://img.shields.io/badge/CircuitPython-9.x-4d2d8f)](https://circuitpython.org/)
-[![成本](https://img.shields.io/badge/成本-低于%2030%20元-brightgreen)](https://github.com/4choor3/rp2040-txt-reader)
+[![成本](https://img.shields.io/badge/成本-低于%2030%20元-brightgreen)](https://github.com/u2tt/rp2040-txt-reader)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ## 它是什么
